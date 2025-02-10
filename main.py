@@ -3,7 +3,6 @@ import google.generativeai as genai
 import os
 import streamlit as st
 from dotenv import load_dotenv
-import requests
 import os
 from data import teams
 
